@@ -1,0 +1,47 @@
+.input_class {
+	border: 1px solid #ADADAD;
+	font-size: 12px;
+	width: 100%;
+}
+
+.seldiv {
+	width: 151px;
+	height: 21px;
+}
+
+dd {
+	display: none;
+	position: relative;
+	margin: 0px;
+	padding: 0px;
+	border: 1px solid #000; 
+	border-radius: 4px;
+	overflow: auto;
+}
+
+dt {
+	height: 21px;
+	margin: 0px;
+	padding: 0px;
+}
+
+dl {
+	height: 21px;
+	margin: 0px;
+	padding: 0px;
+}
+
+dd a {
+	display: none;
+	color: #000;
+	height: 21px;
+	line-height: 21px;
+	font-size: 14px;
+	text-decoration: none;
+	padding: 0 4px;
+	background-color: #FFFAFA;
+}
+
+dd a:hover {
+	background: #eee;
+}
