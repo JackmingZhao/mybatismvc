@@ -1,8 +1,5 @@
 driver=com.mysql.jdbc.Driver
 url=jdbc:mysql://127.0.0.1:3306/myown?characterEncoding=utf-8
-#oracle
-#driver=oracle.jdbc.driver.OracleDriver
-#url=jdbc:oracle:thin:@127.0.0.1:1521:orcl
 username=orange
 password=orange
 #定义初始连接数
